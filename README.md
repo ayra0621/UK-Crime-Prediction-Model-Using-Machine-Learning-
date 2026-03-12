@@ -1,4 +1,4 @@
-# UK-Crime-Prediction-Model-Using-Machine-Learning-
+# UK Crime Prediction Model Using Machine Learning
 This project was developed as part of my MSc Data Science dissertation at Leeds Beckett University.
 
 The objective is to forecast crime trends across England and Wales and analyse borough-level crime patterns in London using machine learning models and socio-economic indicators.
