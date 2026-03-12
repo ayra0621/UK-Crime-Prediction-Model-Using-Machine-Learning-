@@ -25,6 +25,7 @@ Interactive dashboard to visualise predictions and risk labels (High / Medium / 
 - English Indices of Deprivation (IMD)
 
 ## Stremlit Dashboard Preview
+The Streamlit application allows users to select police force areas, crime categories, and forecasting parameters to generate predicted crime counts and risk levels for future periods.
 <img width="937" height="451" alt="image" src="https://github.com/user-attachments/assets/f88cadbb-1928-4042-8b0e-961eab7ea347" />
 <img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/2a329760-435a-4739-b98c-4e88169efe80" />
 <img width="941" height="502" alt="image" src="https://github.com/user-attachments/assets/8bf423dd-5841-41a0-8d74-3c45d6675454" />
